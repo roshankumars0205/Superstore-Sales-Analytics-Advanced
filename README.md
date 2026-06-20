@@ -224,7 +224,7 @@ This project was completed as **Task 2** of the **Data Analytics & Business Inte
 ## 🔗 Connect With Me
 
 - **LinkedIn:** [Roshan Kumar S](https://linkedin.com/in/roshankumars)
-- **GitHub:** [github.com/roshankumars](https://github.com/roshankumars)
+- **GitHub:** [github.com/roshankumars0205](https://github.com/roshankumars0205)
 - **Email:** roshankumars0205@gmail.com
 
 ---
